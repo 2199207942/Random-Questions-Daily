@@ -45,3 +45,15 @@
 **🔗 参考或延伸资源**  
 
 ---
+
+### 🧐 Hilt依赖注入是什么？
+
+**📘 答案**  
+Android团队与Dagger2团队共同开发的专门面向Android的依赖注入框架，相比Dagger2来说更加简单易用且有Android API。
+
+**🔗 参考或延伸资源**  
+- [https://zh.minecraft.wiki/w/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90](https://blog.csdn.net/guolin_blog/article/details/109787732)
+- https://developer.android.com/training/dependency-injection/hilt-android?hl=zh-cn
+
+---
+
